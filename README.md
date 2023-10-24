@@ -6,7 +6,7 @@ Git and GitHub are great tools for collaboration. They allow multiple people to 
 
 > Image source: [Artwork by @allison_horst](https://twitter.com/allison_horst)
 
-Git and GitHub can also be very frustrating to use if multiple people are trying to edit the same part of your project at the same time. If you think about this for a moment, you can see why. It is hard enough for a human who has a lot of context about a project to merge multiple peopls' contributsion. It's even harder for an algorithm!
+Git and GitHub can also be very frustrating to use if multiple people are trying to edit the same part of your project at the same time. If you think about this for a moment, you can see why. It is hard enough for a human who has a lot of context about a project to merge multiple peoples' contributions. It's even harder for an algorithm!
 
 ![Cartoon of the GitHub octocat mascot hugging a very sad looking little furry monster while the monster points accusingly at an open laptop with "MERGE CONFLICT" in red across the entire screen. The laptop has angry eyes and claws and a wicked smile. In text across the top reads "gitHUG" with a small heart.](https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/bac2b5d6-5f71-4bb2-8904-03af45448ac2_rw_1200.png?h=d9a9aef39ce69d8d04c1f0c450980030)
 
@@ -26,7 +26,7 @@ When working with your hackathon team, use **Pair or Group Programming** to brin
    > Many people who are new to pair programming want to put the person who knows the most code in the typist position. We suggest the opposite - the typist is a good position for relatively new programmers, while experienced programmers might find it more difficult to go through the pair coding process instead of writing code alone.
 4. The other person or people are code **architects**. They figure out how to structure the code and make suggestions to the typist. Other good ways for architects to contribute include doing research and writing pseudocode or flow diagrams to help the typist know what to type.
 
-Pair programming, when done like this, is inclusive. We know it can be uncomfortable to know how to fix a problem and refrain from doing it yourself. Please do not take control away from the typist, or ignore your architects! Remember that these rules are intended to make sure that everyone's input is valued and incorporated into your project. You might need to code a little slower than you might by yourself, but trust that the code your write will be higher quality.
+We believe that pair programming, when done using our rules, is inclusive. We know it can be uncomfortable to know how to fix a problem and refrain from doing it yourself. Please do not take control away from the typist, or ignore your architects! Remember that these rules are intended to make sure that everyone's input is valued and incorporated into your project. You might need to code a little slower than you might by yourself, but trust that the code your write will be higher quality. Put another way -- by choosing to pair program, we at ESIIL are **committing to quality over quantity, and to inclusivity over individual stardom**.
 
 ### Principle #2: Write Modular Code
 
